@@ -1,15 +1,15 @@
 {
-    "name": "com.SamLloyd.StateMachinePackage",
+    "name": "com.sam.statemachinepackage",
     "version": "1.0.0",
     "displayName": "State Machine",
-    "description": "This is an example package",
+    "description": "A package that contains a StateMachine script that can be used to add statemachines to gameobjects, with substates",
     "unity": "2019.1",
     "dependencies": {
       "com.Unity.InputSystem": "1.7.0"
    },
     "author": {
       "name": "Sam",
-      "email": "samlloyd2005@gmail.com",
+      "email": "samlloyd2005@gmail.com"
     }
-  }
+} 
   
